@@ -1,7 +1,7 @@
 # **About team gabozaGo**
 
 - FrontEnd: 김수정
-- BackEnd: 서동희(ProductManager), 이주현(ProjectManager), 하준수
+- BackEnd: 서동희(ProductManager), 하준수
 - 개발기간: 2023.07.17 ~ 2023.07.28
 - 깃헙 링크
     - [FrontEnd](https://github.com/wecode-bootcamp-korea/47-2nd-gabozaGo-frontend)
